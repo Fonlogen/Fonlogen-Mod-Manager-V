@@ -1,0 +1,1429 @@
+Waiting for instructional_buttons to load
+instructional_buttons have loaded
+Read keys from ini file key_hud F10
+Converted keys to dword key_possess 121
+GTA Animations initialized: 
+action_load_synchedanims
+Loaded 643 synchronized anims from SceneDirectorSynchedAnim.xml
+Copying categories to map
+Copying categories to vector
+Sorting categories
+set_relationships_between_actors
+Screen Director initialized
+Setting PLAYER::SET_EVERYONE_IGNORE_PLAYER and PLAYER::SET_POLICE_IGNORE_PLAYER to false
+action_menu_active_selected 115
+action_menu_active_selected 1
+action_if_ped_execute_shortcut_key_pressed: Retrieve ped in slot 1
+action_if_ped_execute_shortcut_key_pressed: Switching to ped:  566274
+possess_ped: Ped:566274
+action_menu_active_selected 110
+SCENE ACTIVE
+set_relationships_between_actors
+Actor 566274 Has relationshipgroup Group A
+Adding actor to relationship group . Existing hash is 1862763509 new has should be is 1183095076
+Relationship group after add 1183095076
+action_submenu_active_selected 156
+Got keyboard value Putin
+action_submenu_active_selected 144
+action_menu_active_selected 1
+action_if_ped_execute_shortcut_key_pressed: Retrieve ped in slot 1
+action_if_ped_execute_shortcut_key_pressed: Switching to ped:  566274
+possess_ped: Ped:566274
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 144
+action_submenu_active_selected 140
+ActorRecordingItem 566274 ticks: 1000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1917.046143,3778.395752,32.291756) Speed 1.000000
+ActorRecordingItem 566274 ticks: 2000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1916.400146,3780.043457,32.292133) Speed 1.000000
+ActorRecordingItem 566274 ticks: 3015 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.758789,3781.679443,32.293770) Speed 1.000000
+ActorRecordingItem 566274 ticks: 4015 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.128418,3783.283447,32.294640) Speed 1.000000
+ActorRecordingItem 566274 ticks: 5015 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1914.499023,3784.885498,32.293545) Speed 1.000000
+ActorRecordingItem 566274 ticks: 6031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1913.856934,3786.519287,32.292240) Speed 1.000000
+ActorRecordingItem 566274 ticks: 7031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1913.226807,3788.122803,32.293762) Speed 1.000000
+ActorRecordingItem 566274 ticks: 8031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1912.595947,3789.728516,32.300846) Speed 1.000000
+ActorRecordingItem 566274 ticks: 9031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1911.960205,3791.346191,32.306465) Speed 1.000000
+ActorRecordingItem 566274 ticks: 10031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1911.332275,3792.944824,32.310738) Speed 1.000000
+ActorRecordingItem 566274 ticks: 11046 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1910.702881,3794.547852,32.315605) Speed 1.000000
+Here are the recordings made for this actor:
+ActorRecordingItem 566274 ticks: 1000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1917.046143,3778.395752,32.291756) Speed 1.000000
+ActorRecordingItem 566274 ticks: 2000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1916.400146,3780.043457,32.292133) Speed 1.000000
+ActorRecordingItem 566274 ticks: 3015 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.758789,3781.679443,32.293770) Speed 1.000000
+ActorRecordingItem 566274 ticks: 4015 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.128418,3783.283447,32.294640) Speed 1.000000
+ActorRecordingItem 566274 ticks: 5015 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1914.499023,3784.885498,32.293545) Speed 1.000000
+ActorRecordingItem 566274 ticks: 6031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1913.856934,3786.519287,32.292240) Speed 1.000000
+ActorRecordingItem 566274 ticks: 7031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1913.226807,3788.122803,32.293762) Speed 1.000000
+ActorRecordingItem 566274 ticks: 8031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1912.595947,3789.728516,32.300846) Speed 1.000000
+ActorRecordingItem 566274 ticks: 9031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1911.960205,3791.346191,32.306465) Speed 1.000000
+ActorRecordingItem 566274 ticks: 10031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1911.332275,3792.944824,32.310738) Speed 1.000000
+ActorRecordingItem 566274 ticks: 11046 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1910.702881,3794.547852,32.315605) Speed 1.000000
+Recorded 11 instructions
+action_menu_active_selected 122
+action_teleport_to_start_locations
+action_teleport_to_start_locations actor:566274
+566274 has start location vehicle value 0
+Before TASK_SET_BLOCKING_OF_NON_TEMPORARY_EVENTS
+Before teleport_entity_to_location
+teleport_entity_to_location: Entity:566274
+Before wait
+Setting vehicle to undrivable
+Checking if there are other used vehicles which should be teleported
+About to do dynamic_pointer_cast
+Teleporting all vehicles used in recordings
+Setting vehicle to drivable
+possess_ped: Ped:566274
+action_menu_active_selected 117
+action_clone_player
+teleport_entity_to_location: Entity:110083
+action_menu_active_selected 116
+action_if_ped_execute_shortcut_key_pressed: Retrieve ped in slot 2
+action_if_ped_execute_shortcut_key_pressed: Switching to ped:  110083
+possess_ped: Ped:110083
+action_submenu_active_selected 156
+Got keyboard value Putin 
+action_submenu_active_selected 152
+Actor 110083 Has relationshipgroup Group A
+Adding actor to relationship group . Existing hash is 1862763509 new has should be is 1183095076
+Relationship group after add 1183095076
+Actor 110083 Has relationshipgroup Group A
+Adding actor to relationship group . Existing hash is 1183095076 new has should be is 1183095076
+Relationship group after add 1183095076
+update_tick_recording_replay - Initiate telport to start location for all actors
+action_teleport_to_start_locations
+action_teleport_to_start_locations actor:566274
+566274 has start location vehicle value 0
+Before TASK_SET_BLOCKING_OF_NON_TEMPORARY_EVENTS
+Before teleport_entity_to_location
+teleport_entity_to_location: Entity:566274
+Before wait
+action_teleport_to_start_locations actor:110083
+Before TASK_SET_BLOCKING_OF_NON_TEMPORARY_EVENTS
+Before teleport_entity_to_location
+teleport_entity_to_location: Entity:110083
+Before wait
+Setting vehicle to undrivable
+Checking if there are other used vehicles which should be teleported
+About to do dynamic_pointer_cast
+Teleporting all vehicles used in recordings
+Setting vehicle to drivable
+possess_ped: Ped:566274
+possess_ped: Ped:110083
+ActorRecordingItem 110083 ticks: 2032 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.734985,3782.654053,32.297585) Speed 1.000000
+ActorRecordingItem 110083 ticks: 3047 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.788696,3782.666260,32.298046) Speed 1.000000
+Starting first recording item
+ActorRecordingItem 566274 ticks: 1000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1917.046143,3778.395752,32.291756) Speed 1.000000
+ActorRecordingItem 110083 ticks: 4047 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.121826,3783.939697,32.297195) Speed 1.000000
+41140640 checking for completion of item ActorRecordingItem 566274 ticks: 1000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1917.046143,3778.395752,32.291756) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 1.203240 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 1 : ActorRecordingItem 566274 ticks: 2000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1916.400146,3780.043457,32.292133) Speed 1.000000
+41140968 checking for completion of item ActorRecordingItem 566274 ticks: 2000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1916.400146,3780.043457,32.292133) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41141296 checking for completion of item ActorRecordingItem 566274 ticks: 2000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1916.400146,3780.043457,32.292133) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 1.820317 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 2 : ActorRecordingItem 566274 ticks: 3015 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.758789,3781.679443,32.293770) Speed 1.000000
+ActorRecordingItem 110083 ticks: 5047 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1914.229980,3784.020996,32.287258) Speed 1.000000
+41141625 checking for completion of item ActorRecordingItem 566274 ticks: 3015 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.758789,3781.679443,32.293770) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41141953 checking for completion of item ActorRecordingItem 566274 ticks: 3015 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.758789,3781.679443,32.293770) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 2.431619 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 3 : ActorRecordingItem 566274 ticks: 4015 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.128418,3783.283447,32.294640) Speed 1.000000
+41142281 checking for completion of item ActorRecordingItem 566274 ticks: 4015 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.128418,3783.283447,32.294640) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+ActorRecordingItem 110083 ticks: 6047 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.290771,3784.596680,32.300777) Speed 1.000000
+41142593 checking for completion of item ActorRecordingItem 566274 ticks: 4015 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.128418,3783.283447,32.294640) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 3.034405 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 4 : ActorRecordingItem 566274 ticks: 5015 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1914.499023,3784.885498,32.293545) Speed 1.000000
+41142937 checking for completion of item ActorRecordingItem 566274 ticks: 5015 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1914.499023,3784.885498,32.293545) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41143265 checking for completion of item ActorRecordingItem 566274 ticks: 5015 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1914.499023,3784.885498,32.293545) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 3.616505 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 5 : ActorRecordingItem 566274 ticks: 6031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1913.856934,3786.519287,32.292240) Speed 1.000000
+ActorRecordingItem 110083 ticks: 7047 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.579590,3786.160645,32.309273) Speed 1.000000
+41143593 checking for completion of item ActorRecordingItem 566274 ticks: 6031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1913.856934,3786.519287,32.292240) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41143921 checking for completion of item ActorRecordingItem 566274 ticks: 6031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1913.856934,3786.519287,32.292240) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 4.234132 Min distance: 4.000000
+41144234 checking for completion of item ActorRecordingItem 566274 ticks: 6031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1913.856934,3786.519287,32.292240) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 3.693160 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 6 : ActorRecordingItem 566274 ticks: 7031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1913.226807,3788.122803,32.293762) Speed 1.000000
+ActorRecordingItem 110083 ticks: 8063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.368164,3787.891113,32.312931) Speed 1.000000
+41144578 checking for completion of item ActorRecordingItem 566274 ticks: 7031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1913.226807,3788.122803,32.293762) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41144906 checking for completion of item ActorRecordingItem 566274 ticks: 7031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1913.226807,3788.122803,32.293762) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 4.262594 Min distance: 4.000000
+41145218 checking for completion of item ActorRecordingItem 566274 ticks: 7031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1913.226807,3788.122803,32.293762) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 3.705352 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 7 : ActorRecordingItem 566274 ticks: 8031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1912.595947,3789.728516,32.300846) Speed 1.000000
+ActorRecordingItem 110083 ticks: 9063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.160034,3789.576172,32.320457) Speed 1.000000
+41145562 checking for completion of item ActorRecordingItem 566274 ticks: 8031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1912.595947,3789.728516,32.300846) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41145875 checking for completion of item ActorRecordingItem 566274 ticks: 8031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1912.595947,3789.728516,32.300846) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 4.296464 Min distance: 4.000000
+41146187 checking for completion of item ActorRecordingItem 566274 ticks: 8031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1912.595947,3789.728516,32.300846) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 3.773931 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 8 : ActorRecordingItem 566274 ticks: 9031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1911.960205,3791.346191,32.306465) Speed 1.000000
+ActorRecordingItem 110083 ticks: 10063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1914.830078,3791.234863,32.327766) Speed 1.000000
+41146531 checking for completion of item ActorRecordingItem 566274 ticks: 9031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1911.960205,3791.346191,32.306465) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41146843 checking for completion of item ActorRecordingItem 566274 ticks: 9031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1911.960205,3791.346191,32.306465) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 4.385832 Min distance: 4.000000
+41147156 checking for completion of item ActorRecordingItem 566274 ticks: 9031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1911.960205,3791.346191,32.306465) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 3.823366 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 9 : ActorRecordingItem 566274 ticks: 10031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1911.332275,3792.944824,32.310738) Speed 1.000000
+ActorRecordingItem 110083 ticks: 11063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1913.846924,3792.667236,32.328304) Speed 1.000000
+41147515 checking for completion of item ActorRecordingItem 566274 ticks: 10031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1911.332275,3792.944824,32.310738) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41147828 checking for completion of item ActorRecordingItem 566274 ticks: 10031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1911.332275,3792.944824,32.310738) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 4.387322 Min distance: 4.000000
+41148140 checking for completion of item ActorRecordingItem 566274 ticks: 10031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1911.332275,3792.944824,32.310738) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 3.850525 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 10 : ActorRecordingItem 566274 ticks: 11046 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1910.702881,3794.547852,32.315605) Speed 1.000000
+ActorRecordingItem 110083 ticks: 12063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1913.746582,3793.565186,32.333000) Speed 1.000000
+41148500 checking for completion of item ActorRecordingItem 566274 ticks: 11046 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1910.702881,3794.547852,32.315605) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41148812 checking for completion of item ActorRecordingItem 566274 ticks: 11046 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1910.702881,3794.547852,32.315605) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 4.416673 Min distance: 4.000000
+41149140 checking for completion of item ActorRecordingItem 566274 ticks: 11046 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1910.702881,3794.547852,32.315605) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 3.861926 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+ActorRecordingItem 110083 ticks: 13063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1912.522949,3794.111572,32.326344) Speed 1.000000
+ActorRecordingItem 110083 ticks: 14063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1912.457275,3794.084717,32.325787) Speed 1.000000
+ActorRecordingItem 110083 ticks: 15063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1912.214233,3794.499512,32.326271) Speed 1.000000
+ActorRecordingItem 110083 ticks: 16063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1912.209106,3795.299316,32.331459) Speed 1.000000
+Here are the recordings made for this actor:
+ActorRecordingItem 110083 ticks: 2032 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.734985,3782.654053,32.297585) Speed 1.000000
+ActorRecordingItem 110083 ticks: 3047 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.788696,3782.666260,32.298046) Speed 1.000000
+ActorRecordingItem 110083 ticks: 4047 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.121826,3783.939697,32.297195) Speed 1.000000
+ActorRecordingItem 110083 ticks: 5047 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1914.229980,3784.020996,32.287258) Speed 1.000000
+ActorRecordingItem 110083 ticks: 6047 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.290771,3784.596680,32.300777) Speed 1.000000
+ActorRecordingItem 110083 ticks: 7047 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.579590,3786.160645,32.309273) Speed 1.000000
+ActorRecordingItem 110083 ticks: 8063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.368164,3787.891113,32.312931) Speed 1.000000
+ActorRecordingItem 110083 ticks: 9063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.160034,3789.576172,32.320457) Speed 1.000000
+ActorRecordingItem 110083 ticks: 10063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1914.830078,3791.234863,32.327766) Speed 1.000000
+ActorRecordingItem 110083 ticks: 11063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1913.846924,3792.667236,32.328304) Speed 1.000000
+ActorRecordingItem 110083 ticks: 12063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1913.746582,3793.565186,32.333000) Speed 1.000000
+ActorRecordingItem 110083 ticks: 13063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1912.522949,3794.111572,32.326344) Speed 1.000000
+ActorRecordingItem 110083 ticks: 14063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1912.457275,3794.084717,32.325787) Speed 1.000000
+ActorRecordingItem 110083 ticks: 15063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1912.214233,3794.499512,32.326271) Speed 1.000000
+ActorRecordingItem 110083 ticks: 16063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1912.209106,3795.299316,32.331459) Speed 1.000000
+Recorded 15 instructions
+action_submenu_active_selected 150
+Will test recording for 110083
+update_tick_recording_replay - Initiate telport to start location for all actors
+action_teleport_to_start_locations
+action_teleport_to_start_locations actor:566274
+566274 has start location vehicle value 0
+Before TASK_SET_BLOCKING_OF_NON_TEMPORARY_EVENTS
+Before teleport_entity_to_location
+teleport_entity_to_location: Entity:566274
+Before wait
+action_teleport_to_start_locations actor:110083
+110083 has start location vehicle value 0
+Before TASK_SET_BLOCKING_OF_NON_TEMPORARY_EVENTS
+Before teleport_entity_to_location
+teleport_entity_to_location: Entity:110083
+Before wait
+Setting vehicle to undrivable
+Checking if there are other used vehicles which should be teleported
+About to do dynamic_pointer_cast
+About to do dynamic_pointer_cast
+Teleporting all vehicles used in recordings
+Setting vehicle to drivable
+possess_ped: Ped:566274
+possess_ped: Ped:110083
+Starting first recording item
+ActorRecordingItem 110083 ticks: 2032 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.734985,3782.654053,32.297585) Speed 1.000000
+41162250 checking for completion of item ActorRecordingItem 110083 ticks: 2032 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.734985,3782.654053,32.297585) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 1.969027 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 1 : ActorRecordingItem 110083 ticks: 3047 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.788696,3782.666260,32.298046) Speed 1.000000
+41162578 checking for completion of item ActorRecordingItem 110083 ticks: 3047 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.788696,3782.666260,32.298046) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41162890 checking for completion of item ActorRecordingItem 110083 ticks: 3047 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.788696,3782.666260,32.298046) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 1.190486 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 2 : ActorRecordingItem 110083 ticks: 4047 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.121826,3783.939697,32.297195) Speed 1.000000
+41163218 checking for completion of item ActorRecordingItem 110083 ticks: 4047 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.121826,3783.939697,32.297195) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41163531 checking for completion of item ActorRecordingItem 110083 ticks: 4047 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.121826,3783.939697,32.297195) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 1.490143 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 3 : ActorRecordingItem 110083 ticks: 5047 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1914.229980,3784.020996,32.287258) Speed 1.000000
+41163875 checking for completion of item ActorRecordingItem 110083 ticks: 5047 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1914.229980,3784.020996,32.287258) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41164203 checking for completion of item ActorRecordingItem 110083 ticks: 5047 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1914.229980,3784.020996,32.287258) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 0.982478 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 4 : ActorRecordingItem 110083 ticks: 6047 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.290771,3784.596680,32.300777) Speed 1.000000
+41164531 checking for completion of item ActorRecordingItem 110083 ticks: 6047 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.290771,3784.596680,32.300777) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41164843 checking for completion of item ActorRecordingItem 110083 ticks: 6047 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.290771,3784.596680,32.300777) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 0.302840 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 5 : ActorRecordingItem 110083 ticks: 7047 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.579590,3786.160645,32.309273) Speed 1.000000
+41165187 checking for completion of item ActorRecordingItem 110083 ticks: 7047 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.579590,3786.160645,32.309273) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41165500 checking for completion of item ActorRecordingItem 110083 ticks: 7047 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.579590,3786.160645,32.309273) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 1.285101 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 6 : ActorRecordingItem 110083 ticks: 8063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.368164,3787.891113,32.312931) Speed 1.000000
+41165843 checking for completion of item ActorRecordingItem 110083 ticks: 8063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.368164,3787.891113,32.312931) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41166156 checking for completion of item ActorRecordingItem 110083 ticks: 8063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.368164,3787.891113,32.312931) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 1.906852 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 7 : ActorRecordingItem 110083 ticks: 9063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.160034,3789.576172,32.320457) Speed 1.000000
+41166500 checking for completion of item ActorRecordingItem 110083 ticks: 9063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.160034,3789.576172,32.320457) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41166828 checking for completion of item ActorRecordingItem 110083 ticks: 9063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.160034,3789.576172,32.320457) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 2.441756 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 8 : ActorRecordingItem 110083 ticks: 10063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1914.830078,3791.234863,32.327766) Speed 1.000000
+41167187 checking for completion of item ActorRecordingItem 110083 ticks: 10063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1914.830078,3791.234863,32.327766) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41167515 checking for completion of item ActorRecordingItem 110083 ticks: 10063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1914.830078,3791.234863,32.327766) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 2.937210 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 9 : ActorRecordingItem 110083 ticks: 11063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1913.846924,3792.667236,32.328304) Speed 1.000000
+41167843 checking for completion of item ActorRecordingItem 110083 ticks: 11063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1913.846924,3792.667236,32.328304) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41168156 checking for completion of item ActorRecordingItem 110083 ticks: 11063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1913.846924,3792.667236,32.328304) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 3.434573 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 10 : ActorRecordingItem 110083 ticks: 12063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1913.746582,3793.565186,32.333000) Speed 1.000000
+41168500 checking for completion of item ActorRecordingItem 110083 ticks: 12063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1913.746582,3793.565186,32.333000) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41168812 checking for completion of item ActorRecordingItem 110083 ticks: 12063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1913.746582,3793.565186,32.333000) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 3.174091 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 11 : ActorRecordingItem 110083 ticks: 13063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1912.522949,3794.111572,32.326344) Speed 1.000000
+41169156 checking for completion of item ActorRecordingItem 110083 ticks: 13063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1912.522949,3794.111572,32.326344) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41169484 checking for completion of item ActorRecordingItem 110083 ticks: 13063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1912.522949,3794.111572,32.326344) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 3.018892 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 12 : ActorRecordingItem 110083 ticks: 14063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1912.457275,3794.084717,32.325787) Speed 1.000000
+41169812 checking for completion of item ActorRecordingItem 110083 ticks: 14063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1912.457275,3794.084717,32.325787) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41170125 checking for completion of item ActorRecordingItem 110083 ticks: 14063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1912.457275,3794.084717,32.325787) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 1.924653 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 13 : ActorRecordingItem 110083 ticks: 15063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1912.214233,3794.499512,32.326271) Speed 1.000000
+41170453 checking for completion of item ActorRecordingItem 110083 ticks: 15063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1912.214233,3794.499512,32.326271) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41170765 checking for completion of item ActorRecordingItem 110083 ticks: 15063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1912.214233,3794.499512,32.326271) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 1.268220 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 14 : ActorRecordingItem 110083 ticks: 16063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1912.209106,3795.299316,32.331459) Speed 1.000000
+41171125 checking for completion of item ActorRecordingItem 110083 ticks: 16063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1912.209106,3795.299316,32.331459) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41171453 checking for completion of item ActorRecordingItem 110083 ticks: 16063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1912.209106,3795.299316,32.331459) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 1.238086 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+action_menu_active_selected 1
+action_if_ped_execute_shortcut_key_pressed: Retrieve ped in slot 1
+action_if_ped_execute_shortcut_key_pressed: Switching to ped:  566274
+possess_ped: Ped:566274
+action_submenu_active_selected 150
+Will test recording for 566274
+update_tick_recording_replay - Initiate telport to start location for all actors
+action_teleport_to_start_locations
+action_teleport_to_start_locations actor:566274
+566274 has start location vehicle value 0
+Before TASK_SET_BLOCKING_OF_NON_TEMPORARY_EVENTS
+Before teleport_entity_to_location
+teleport_entity_to_location: Entity:566274
+Before wait
+action_teleport_to_start_locations actor:110083
+110083 has start location vehicle value 0
+Before TASK_SET_BLOCKING_OF_NON_TEMPORARY_EVENTS
+Before teleport_entity_to_location
+teleport_entity_to_location: Entity:110083
+Before wait
+Setting vehicle to undrivable
+Checking if there are other used vehicles which should be teleported
+About to do dynamic_pointer_cast
+About to do dynamic_pointer_cast
+Teleporting all vehicles used in recordings
+Setting vehicle to drivable
+possess_ped: Ped:110083
+possess_ped: Ped:566274
+Starting first recording item
+ActorRecordingItem 566274 ticks: 1000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1917.046143,3778.395752,32.291756) Speed 1.000000
+41190109 checking for completion of item ActorRecordingItem 566274 ticks: 1000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1917.046143,3778.395752,32.291756) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 0.377423 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 1 : ActorRecordingItem 566274 ticks: 2000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1916.400146,3780.043457,32.292133) Speed 1.000000
+41190437 checking for completion of item ActorRecordingItem 566274 ticks: 2000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1916.400146,3780.043457,32.292133) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41190750 checking for completion of item ActorRecordingItem 566274 ticks: 2000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1916.400146,3780.043457,32.292133) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 0.811326 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 2 : ActorRecordingItem 566274 ticks: 3015 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.758789,3781.679443,32.293770) Speed 1.000000
+41191093 checking for completion of item ActorRecordingItem 566274 ticks: 3015 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.758789,3781.679443,32.293770) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41191406 checking for completion of item ActorRecordingItem 566274 ticks: 3015 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.758789,3781.679443,32.293770) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 2.008975 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 3 : ActorRecordingItem 566274 ticks: 4015 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.128418,3783.283447,32.294640) Speed 1.000000
+41191750 checking for completion of item ActorRecordingItem 566274 ticks: 4015 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.128418,3783.283447,32.294640) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41192078 checking for completion of item ActorRecordingItem 566274 ticks: 4015 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.128418,3783.283447,32.294640) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 2.632739 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 4 : ActorRecordingItem 566274 ticks: 5015 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1914.499023,3784.885498,32.293545) Speed 1.000000
+41192421 checking for completion of item ActorRecordingItem 566274 ticks: 5015 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1914.499023,3784.885498,32.293545) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41192734 checking for completion of item ActorRecordingItem 566274 ticks: 5015 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1914.499023,3784.885498,32.293545) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 3.218860 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 5 : ActorRecordingItem 566274 ticks: 6031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1913.856934,3786.519287,32.292240) Speed 1.000000
+41193062 checking for completion of item ActorRecordingItem 566274 ticks: 6031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1913.856934,3786.519287,32.292240) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41193390 checking for completion of item ActorRecordingItem 566274 ticks: 6031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1913.856934,3786.519287,32.292240) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 3.851089 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 6 : ActorRecordingItem 566274 ticks: 7031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1913.226807,3788.122803,32.293762) Speed 1.000000
+41193718 checking for completion of item ActorRecordingItem 566274 ticks: 7031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1913.226807,3788.122803,32.293762) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41194031 checking for completion of item ActorRecordingItem 566274 ticks: 7031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1913.226807,3788.122803,32.293762) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 4.451493 Min distance: 4.000000
+41194359 checking for completion of item ActorRecordingItem 566274 ticks: 7031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1913.226807,3788.122803,32.293762) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 3.904520 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 7 : ActorRecordingItem 566274 ticks: 8031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1912.595947,3789.728516,32.300846) Speed 1.000000
+41194687 checking for completion of item ActorRecordingItem 566274 ticks: 8031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1912.595947,3789.728516,32.300846) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41195000 checking for completion of item ActorRecordingItem 566274 ticks: 8031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1912.595947,3789.728516,32.300846) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 4.517263 Min distance: 4.000000
+41195312 checking for completion of item ActorRecordingItem 566274 ticks: 8031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1912.595947,3789.728516,32.300846) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 3.955569 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 8 : ActorRecordingItem 566274 ticks: 9031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1911.960205,3791.346191,32.306465) Speed 1.000000
+41195671 checking for completion of item ActorRecordingItem 566274 ticks: 9031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1911.960205,3791.346191,32.306465) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41195984 checking for completion of item ActorRecordingItem 566274 ticks: 9031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1911.960205,3791.346191,32.306465) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 4.554775 Min distance: 4.000000
+41196296 checking for completion of item ActorRecordingItem 566274 ticks: 9031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1911.960205,3791.346191,32.306465) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 4.006897 Min distance: 4.000000
+41196609 checking for completion of item ActorRecordingItem 566274 ticks: 9031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1911.960205,3791.346191,32.306465) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 3.458467 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 9 : ActorRecordingItem 566274 ticks: 10031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1911.332275,3792.944824,32.310738) Speed 1.000000
+41196968 checking for completion of item ActorRecordingItem 566274 ticks: 10031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1911.332275,3792.944824,32.310738) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41197281 checking for completion of item ActorRecordingItem 566274 ticks: 10031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1911.332275,3792.944824,32.310738) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 4.028625 Min distance: 4.000000
+41197593 checking for completion of item ActorRecordingItem 566274 ticks: 10031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1911.332275,3792.944824,32.310738) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 3.485103 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 10 : ActorRecordingItem 566274 ticks: 11046 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1910.702881,3794.547852,32.315605) Speed 1.000000
+41197921 checking for completion of item ActorRecordingItem 566274 ticks: 11046 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1910.702881,3794.547852,32.315605) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41198234 checking for completion of item ActorRecordingItem 566274 ticks: 11046 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1910.702881,3794.547852,32.315605) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 4.105278 Min distance: 4.000000
+41198546 checking for completion of item ActorRecordingItem 566274 ticks: 11046 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1910.702881,3794.547852,32.315605) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 3.563085 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+action_menu_active_selected 121
+action_submenu_active_selected 190
+action_save_actors
+Actor pedModelHash=1885233650
+Actor pedModelHash=1885233650
+action_save_actors: about to save
+action_menu_active_selected 122
+action_teleport_to_start_locations
+action_teleport_to_start_locations actor:566274
+566274 has start location vehicle value 0
+Before TASK_SET_BLOCKING_OF_NON_TEMPORARY_EVENTS
+Before teleport_entity_to_location
+teleport_entity_to_location: Entity:566274
+Before wait
+action_teleport_to_start_locations actor:110083
+110083 has start location vehicle value 0
+Before TASK_SET_BLOCKING_OF_NON_TEMPORARY_EVENTS
+Before teleport_entity_to_location
+teleport_entity_to_location: Entity:110083
+Before wait
+Setting vehicle to undrivable
+Checking if there are other used vehicles which should be teleported
+About to do dynamic_pointer_cast
+About to do dynamic_pointer_cast
+Teleporting all vehicles used in recordings
+Setting vehicle to drivable
+possess_ped: Ped:110083
+possess_ped: Ped:566274
+action_menu_active_selected 110
+SCENE SETUP
+action_menu_active_selected 110
+SCENE ACTIVE
+set_relationships_between_actors
+Actor 566274 Has relationshipgroup Group A
+Adding actor to relationship group . Existing hash is 1862763509 new has should be is 1183095076
+Relationship group after add 1183095076
+Actor 110083 Has relationshipgroup Group A
+Adding actor to relationship group . Existing hash is 4208871491 new has should be is 1183095076
+Relationship group after add 1183095076
+update_tick_recording_replay - Initiate telport to start location for all actors
+action_teleport_to_start_locations
+action_teleport_to_start_locations actor:566274
+566274 has start location vehicle value 0
+Before TASK_SET_BLOCKING_OF_NON_TEMPORARY_EVENTS
+Before teleport_entity_to_location
+teleport_entity_to_location: Entity:566274
+Before wait
+action_teleport_to_start_locations actor:110083
+110083 has start location vehicle value 0
+Before TASK_SET_BLOCKING_OF_NON_TEMPORARY_EVENTS
+Before teleport_entity_to_location
+teleport_entity_to_location: Entity:110083
+Before wait
+Setting vehicle to undrivable
+Checking if there are other used vehicles which should be teleported
+About to do dynamic_pointer_cast
+About to do dynamic_pointer_cast
+Teleporting all vehicles used in recordings
+Setting vehicle to drivable
+possess_ped: Ped:110083
+possess_ped: Ped:566274
+Starting first recording item
+ActorRecordingItem 566274 ticks: 1000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1917.046143,3778.395752,32.291756) Speed 1.000000
+Starting first recording item
+ActorRecordingItem 110083 ticks: 2032 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.734985,3782.654053,32.297585) Speed 1.000000
+41309656 checking for completion of item ActorRecordingItem 566274 ticks: 1000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1917.046143,3778.395752,32.291756) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 0.406025 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 1 : ActorRecordingItem 566274 ticks: 2000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1916.400146,3780.043457,32.292133) Speed 1.000000
+41309687 checking for completion of item ActorRecordingItem 110083 ticks: 2032 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.734985,3782.654053,32.297585) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 1.981927 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 1 : ActorRecordingItem 110083 ticks: 3047 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.788696,3782.666260,32.298046) Speed 1.000000
+41310000 checking for completion of item ActorRecordingItem 566274 ticks: 2000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1916.400146,3780.043457,32.292133) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41310031 checking for completion of item ActorRecordingItem 110083 ticks: 3047 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.788696,3782.666260,32.298046) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41310328 checking for completion of item ActorRecordingItem 566274 ticks: 2000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1916.400146,3780.043457,32.292133) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 0.835901 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 2 : ActorRecordingItem 566274 ticks: 3015 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.758789,3781.679443,32.293770) Speed 1.000000
+41310359 checking for completion of item ActorRecordingItem 110083 ticks: 3047 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.788696,3782.666260,32.298046) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 1.174520 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 2 : ActorRecordingItem 110083 ticks: 4047 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.121826,3783.939697,32.297195) Speed 1.000000
+41310656 checking for completion of item ActorRecordingItem 566274 ticks: 3015 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.758789,3781.679443,32.293770) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41310687 checking for completion of item ActorRecordingItem 110083 ticks: 4047 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.121826,3783.939697,32.297195) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41310968 checking for completion of item ActorRecordingItem 566274 ticks: 3015 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.758789,3781.679443,32.293770) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 1.910739 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 3 : ActorRecordingItem 566274 ticks: 4015 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.128418,3783.283447,32.294640) Speed 1.000000
+41311000 checking for completion of item ActorRecordingItem 110083 ticks: 4047 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.121826,3783.939697,32.297195) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 1.474112 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 3 : ActorRecordingItem 110083 ticks: 5047 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1914.229980,3784.020996,32.287258) Speed 1.000000
+41311328 checking for completion of item ActorRecordingItem 566274 ticks: 4015 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.128418,3783.283447,32.294640) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41311343 checking for completion of item ActorRecordingItem 110083 ticks: 5047 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1914.229980,3784.020996,32.287258) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41311640 checking for completion of item ActorRecordingItem 566274 ticks: 4015 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.128418,3783.283447,32.294640) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 2.392227 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 4 : ActorRecordingItem 566274 ticks: 5015 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1914.499023,3784.885498,32.293545) Speed 1.000000
+41311671 checking for completion of item ActorRecordingItem 110083 ticks: 5047 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1914.229980,3784.020996,32.287258) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 0.980798 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 4 : ActorRecordingItem 110083 ticks: 6047 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.290771,3784.596680,32.300777) Speed 1.000000
+41311968 checking for completion of item ActorRecordingItem 566274 ticks: 5015 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1914.499023,3784.885498,32.293545) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41312015 checking for completion of item ActorRecordingItem 110083 ticks: 6047 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.290771,3784.596680,32.300777) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41312281 checking for completion of item ActorRecordingItem 566274 ticks: 5015 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1914.499023,3784.885498,32.293545) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 3.018619 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 5 : ActorRecordingItem 566274 ticks: 6031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1913.856934,3786.519287,32.292240) Speed 1.000000
+41312328 checking for completion of item ActorRecordingItem 110083 ticks: 6047 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.290771,3784.596680,32.300777) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 0.252670 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 5 : ActorRecordingItem 110083 ticks: 7047 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.579590,3786.160645,32.309273) Speed 1.000000
+41312625 checking for completion of item ActorRecordingItem 566274 ticks: 6031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1913.856934,3786.519287,32.292240) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41312656 checking for completion of item ActorRecordingItem 110083 ticks: 7047 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.579590,3786.160645,32.309273) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41312937 checking for completion of item ActorRecordingItem 566274 ticks: 6031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1913.856934,3786.519287,32.292240) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 3.638988 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 6 : ActorRecordingItem 566274 ticks: 7031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1913.226807,3788.122803,32.293762) Speed 1.000000
+41312968 checking for completion of item ActorRecordingItem 110083 ticks: 7047 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.579590,3786.160645,32.309273) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 1.290413 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 6 : ActorRecordingItem 110083 ticks: 8063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.368164,3787.891113,32.312931) Speed 1.000000
+41313281 checking for completion of item ActorRecordingItem 566274 ticks: 7031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1913.226807,3788.122803,32.293762) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41313312 checking for completion of item ActorRecordingItem 110083 ticks: 8063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.368164,3787.891113,32.312931) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41313609 checking for completion of item ActorRecordingItem 566274 ticks: 7031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1913.226807,3788.122803,32.293762) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 4.219052 Min distance: 4.000000
+41313625 checking for completion of item ActorRecordingItem 110083 ticks: 8063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.368164,3787.891113,32.312931) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 1.913772 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 7 : ActorRecordingItem 110083 ticks: 9063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.160034,3789.576172,32.320457) Speed 1.000000
+41313921 checking for completion of item ActorRecordingItem 566274 ticks: 7031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1913.226807,3788.122803,32.293762) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 3.667164 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 7 : ActorRecordingItem 566274 ticks: 8031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1912.595947,3789.728516,32.300846) Speed 1.000000
+41313953 checking for completion of item ActorRecordingItem 110083 ticks: 9063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.160034,3789.576172,32.320457) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41314281 checking for completion of item ActorRecordingItem 566274 ticks: 8031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1912.595947,3789.728516,32.300846) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41314296 checking for completion of item ActorRecordingItem 110083 ticks: 9063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.160034,3789.576172,32.320457) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 2.448682 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 8 : ActorRecordingItem 110083 ticks: 10063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1914.830078,3791.234863,32.327766) Speed 1.000000
+41314593 checking for completion of item ActorRecordingItem 566274 ticks: 8031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1912.595947,3789.728516,32.300846) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 4.258808 Min distance: 4.000000
+41314640 checking for completion of item ActorRecordingItem 110083 ticks: 10063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1914.830078,3791.234863,32.327766) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41314906 checking for completion of item ActorRecordingItem 566274 ticks: 8031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1912.595947,3789.728516,32.300846) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 3.698174 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 8 : ActorRecordingItem 566274 ticks: 9031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1911.960205,3791.346191,32.306465) Speed 1.000000
+41314953 checking for completion of item ActorRecordingItem 110083 ticks: 10063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1914.830078,3791.234863,32.327766) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 2.957492 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 9 : ActorRecordingItem 110083 ticks: 11063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1913.846924,3792.667236,32.328304) Speed 1.000000
+41315265 checking for completion of item ActorRecordingItem 566274 ticks: 9031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1911.960205,3791.346191,32.306465) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41315296 checking for completion of item ActorRecordingItem 110083 ticks: 11063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1913.846924,3792.667236,32.328304) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41315593 checking for completion of item ActorRecordingItem 566274 ticks: 9031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1911.960205,3791.346191,32.306465) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 4.269247 Min distance: 4.000000
+41315609 checking for completion of item ActorRecordingItem 110083 ticks: 11063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1913.846924,3792.667236,32.328304) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 3.479905 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 10 : ActorRecordingItem 110083 ticks: 12063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1913.746582,3793.565186,32.333000) Speed 1.000000
+41315906 checking for completion of item ActorRecordingItem 566274 ticks: 9031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1911.960205,3791.346191,32.306465) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 3.717091 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 9 : ActorRecordingItem 566274 ticks: 10031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1911.332275,3792.944824,32.310738) Speed 1.000000
+41315937 checking for completion of item ActorRecordingItem 110083 ticks: 12063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1913.746582,3793.565186,32.333000) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41316250 checking for completion of item ActorRecordingItem 566274 ticks: 10031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1911.332275,3792.944824,32.310738) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41316250 checking for completion of item ActorRecordingItem 110083 ticks: 12063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1913.746582,3793.565186,32.333000) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 3.222277 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 11 : ActorRecordingItem 110083 ticks: 13063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1912.522949,3794.111572,32.326344) Speed 1.000000
+41316562 checking for completion of item ActorRecordingItem 566274 ticks: 10031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1911.332275,3792.944824,32.310738) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 4.309948 Min distance: 4.000000
+41316609 checking for completion of item ActorRecordingItem 110083 ticks: 13063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1912.522949,3794.111572,32.326344) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41316875 checking for completion of item ActorRecordingItem 566274 ticks: 10031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1911.332275,3792.944824,32.310738) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 3.756564 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 10 : ActorRecordingItem 566274 ticks: 11046 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1910.702881,3794.547852,32.315605) Speed 1.000000
+41316937 checking for completion of item ActorRecordingItem 110083 ticks: 13063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1912.522949,3794.111572,32.326344) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 3.032532 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 12 : ActorRecordingItem 110083 ticks: 14063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1912.457275,3794.084717,32.325787) Speed 1.000000
+41317203 checking for completion of item ActorRecordingItem 566274 ticks: 11046 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1910.702881,3794.547852,32.315605) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41317281 checking for completion of item ActorRecordingItem 110083 ticks: 14063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1912.457275,3794.084717,32.325787) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41317515 checking for completion of item ActorRecordingItem 566274 ticks: 11046 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1910.702881,3794.547852,32.315605) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 4.381749 Min distance: 4.000000
+41317593 checking for completion of item ActorRecordingItem 110083 ticks: 14063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1912.457275,3794.084717,32.325787) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 1.906997 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 13 : ActorRecordingItem 110083 ticks: 15063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1912.214233,3794.499512,32.326271) Speed 1.000000
+41317843 checking for completion of item ActorRecordingItem 566274 ticks: 11046 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1910.702881,3794.547852,32.315605) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 3.820754 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+41317921 checking for completion of item ActorRecordingItem 110083 ticks: 15063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1912.214233,3794.499512,32.326271) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41318234 checking for completion of item ActorRecordingItem 110083 ticks: 15063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1912.214233,3794.499512,32.326271) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 1.252006 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 14 : ActorRecordingItem 110083 ticks: 16063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1912.209106,3795.299316,32.331459) Speed 1.000000
+41318578 checking for completion of item ActorRecordingItem 110083 ticks: 16063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1912.209106,3795.299316,32.331459) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41318890 checking for completion of item ActorRecordingItem 110083 ticks: 16063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1912.209106,3795.299316,32.331459) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 0.846044 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+action_menu_active_selected 122
+action_teleport_to_start_locations
+action_teleport_to_start_locations actor:566274
+566274 has start location vehicle value 0
+Before TASK_SET_BLOCKING_OF_NON_TEMPORARY_EVENTS
+Before teleport_entity_to_location
+teleport_entity_to_location: Entity:566274
+Before wait
+action_teleport_to_start_locations actor:110083
+110083 has start location vehicle value 0
+Before TASK_SET_BLOCKING_OF_NON_TEMPORARY_EVENTS
+Before teleport_entity_to_location
+teleport_entity_to_location: Entity:110083
+Before wait
+Setting vehicle to undrivable
+Checking if there are other used vehicles which should be teleported
+About to do dynamic_pointer_cast
+About to do dynamic_pointer_cast
+Teleporting all vehicles used in recordings
+Setting vehicle to drivable
+possess_ped: Ped:110083
+possess_ped: Ped:566274
+action_menu_active_selected 110
+SCENE SETUP
+action_menu_active_selected 110
+SCENE ACTIVE
+set_relationships_between_actors
+Actor 566274 Has relationshipgroup Group A
+Adding actor to relationship group . Existing hash is 1862763509 new has should be is 1183095076
+Relationship group after add 1183095076
+Actor 110083 Has relationshipgroup Group A
+Adding actor to relationship group . Existing hash is 4208871491 new has should be is 1183095076
+Relationship group after add 1183095076
+update_tick_recording_replay - Initiate telport to start location for all actors
+action_teleport_to_start_locations
+action_teleport_to_start_locations actor:566274
+566274 has start location vehicle value 0
+Before TASK_SET_BLOCKING_OF_NON_TEMPORARY_EVENTS
+Before teleport_entity_to_location
+teleport_entity_to_location: Entity:566274
+Before wait
+action_teleport_to_start_locations actor:110083
+110083 has start location vehicle value 0
+Before TASK_SET_BLOCKING_OF_NON_TEMPORARY_EVENTS
+Before teleport_entity_to_location
+teleport_entity_to_location: Entity:110083
+Before wait
+Setting vehicle to undrivable
+Checking if there are other used vehicles which should be teleported
+About to do dynamic_pointer_cast
+About to do dynamic_pointer_cast
+Teleporting all vehicles used in recordings
+Setting vehicle to drivable
+possess_ped: Ped:110083
+possess_ped: Ped:566274
+Starting first recording item
+ActorRecordingItem 566274 ticks: 1000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1917.046143,3778.395752,32.291756) Speed 1.000000
+Starting first recording item
+ActorRecordingItem 110083 ticks: 2032 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.734985,3782.654053,32.297585) Speed 1.000000
+41335015 checking for completion of item ActorRecordingItem 566274 ticks: 1000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1917.046143,3778.395752,32.291756) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 0.389198 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 1 : ActorRecordingItem 566274 ticks: 2000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1916.400146,3780.043457,32.292133) Speed 1.000000
+41335031 checking for completion of item ActorRecordingItem 110083 ticks: 2032 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.734985,3782.654053,32.297585) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 1.970540 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 1 : ActorRecordingItem 110083 ticks: 3047 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.788696,3782.666260,32.298046) Speed 1.000000
+41335359 checking for completion of item ActorRecordingItem 566274 ticks: 2000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1916.400146,3780.043457,32.292133) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41335375 checking for completion of item ActorRecordingItem 110083 ticks: 3047 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.788696,3782.666260,32.298046) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41335671 checking for completion of item ActorRecordingItem 566274 ticks: 2000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1916.400146,3780.043457,32.292133) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 0.790564 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 2 : ActorRecordingItem 566274 ticks: 3015 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.758789,3781.679443,32.293770) Speed 1.000000
+41335703 checking for completion of item ActorRecordingItem 110083 ticks: 3047 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.788696,3782.666260,32.298046) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 1.139555 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 2 : ActorRecordingItem 110083 ticks: 4047 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.121826,3783.939697,32.297195) Speed 1.000000
+41336031 checking for completion of item ActorRecordingItem 566274 ticks: 3015 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.758789,3781.679443,32.293770) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41336046 checking for completion of item ActorRecordingItem 110083 ticks: 4047 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.121826,3783.939697,32.297195) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41336343 checking for completion of item ActorRecordingItem 566274 ticks: 3015 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.758789,3781.679443,32.293770) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 1.831632 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 3 : ActorRecordingItem 566274 ticks: 4015 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.128418,3783.283447,32.294640) Speed 1.000000
+41336375 checking for completion of item ActorRecordingItem 110083 ticks: 4047 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.121826,3783.939697,32.297195) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 1.405107 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 3 : ActorRecordingItem 110083 ticks: 5047 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1914.229980,3784.020996,32.287258) Speed 1.000000
+41336671 checking for completion of item ActorRecordingItem 566274 ticks: 4015 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.128418,3783.283447,32.294640) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41336718 checking for completion of item ActorRecordingItem 110083 ticks: 5047 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1914.229980,3784.020996,32.287258) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41336984 checking for completion of item ActorRecordingItem 566274 ticks: 4015 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.128418,3783.283447,32.294640) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 2.364442 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 4 : ActorRecordingItem 566274 ticks: 5015 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1914.499023,3784.885498,32.293545) Speed 1.000000
+41337031 checking for completion of item ActorRecordingItem 110083 ticks: 5047 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1914.229980,3784.020996,32.287258) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 0.863916 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 4 : ActorRecordingItem 110083 ticks: 6047 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.290771,3784.596680,32.300777) Speed 1.000000
+41337312 checking for completion of item ActorRecordingItem 566274 ticks: 5015 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1914.499023,3784.885498,32.293545) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41337390 checking for completion of item ActorRecordingItem 110083 ticks: 6047 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.290771,3784.596680,32.300777) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41337625 checking for completion of item ActorRecordingItem 566274 ticks: 5015 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1914.499023,3784.885498,32.293545) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 2.985808 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 5 : ActorRecordingItem 566274 ticks: 6031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1913.856934,3786.519287,32.292240) Speed 1.000000
+41337703 checking for completion of item ActorRecordingItem 110083 ticks: 6047 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.290771,3784.596680,32.300777) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 0.599509 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 5 : ActorRecordingItem 110083 ticks: 7047 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.579590,3786.160645,32.309273) Speed 1.000000
+41337968 checking for completion of item ActorRecordingItem 566274 ticks: 6031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1913.856934,3786.519287,32.292240) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41338046 checking for completion of item ActorRecordingItem 110083 ticks: 7047 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.579590,3786.160645,32.309273) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41338281 checking for completion of item ActorRecordingItem 566274 ticks: 6031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1913.856934,3786.519287,32.292240) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 3.590633 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 6 : ActorRecordingItem 566274 ticks: 7031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1913.226807,3788.122803,32.293762) Speed 1.000000
+41338359 checking for completion of item ActorRecordingItem 110083 ticks: 7047 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.579590,3786.160645,32.309273) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 1.179538 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 6 : ActorRecordingItem 110083 ticks: 8063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.368164,3787.891113,32.312931) Speed 1.000000
+41338609 checking for completion of item ActorRecordingItem 566274 ticks: 7031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1913.226807,3788.122803,32.293762) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41338687 checking for completion of item ActorRecordingItem 110083 ticks: 8063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.368164,3787.891113,32.312931) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41338921 checking for completion of item ActorRecordingItem 566274 ticks: 7031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1913.226807,3788.122803,32.293762) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 4.199561 Min distance: 4.000000
+41339000 checking for completion of item ActorRecordingItem 110083 ticks: 8063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.368164,3787.891113,32.312931) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 1.797918 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 7 : ActorRecordingItem 110083 ticks: 9063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.160034,3789.576172,32.320457) Speed 1.000000
+41339234 checking for completion of item ActorRecordingItem 566274 ticks: 7031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1913.226807,3788.122803,32.293762) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 3.680301 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 7 : ActorRecordingItem 566274 ticks: 8031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1912.595947,3789.728516,32.300846) Speed 1.000000
+41339328 checking for completion of item ActorRecordingItem 110083 ticks: 9063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.160034,3789.576172,32.320457) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41339578 checking for completion of item ActorRecordingItem 566274 ticks: 8031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1912.595947,3789.728516,32.300846) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41339640 checking for completion of item ActorRecordingItem 110083 ticks: 9063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1915.160034,3789.576172,32.320457) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 2.371580 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 8 : ActorRecordingItem 110083 ticks: 10063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1914.830078,3791.234863,32.327766) Speed 1.000000
+41339890 checking for completion of item ActorRecordingItem 566274 ticks: 8031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1912.595947,3789.728516,32.300846) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 4.260345 Min distance: 4.000000
+41339984 checking for completion of item ActorRecordingItem 110083 ticks: 10063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1914.830078,3791.234863,32.327766) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41340203 checking for completion of item ActorRecordingItem 566274 ticks: 8031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1912.595947,3789.728516,32.300846) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 3.719920 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 8 : ActorRecordingItem 566274 ticks: 9031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1911.960205,3791.346191,32.306465) Speed 1.000000
+41340296 checking for completion of item ActorRecordingItem 110083 ticks: 10063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1914.830078,3791.234863,32.327766) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 2.932956 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 9 : ActorRecordingItem 110083 ticks: 11063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1913.846924,3792.667236,32.328304) Speed 1.000000
+41340546 checking for completion of item ActorRecordingItem 566274 ticks: 9031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1911.960205,3791.346191,32.306465) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41340640 checking for completion of item ActorRecordingItem 110083 ticks: 11063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1913.846924,3792.667236,32.328304) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41340859 checking for completion of item ActorRecordingItem 566274 ticks: 9031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1911.960205,3791.346191,32.306465) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 4.335854 Min distance: 4.000000
+41340953 checking for completion of item ActorRecordingItem 110083 ticks: 11063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1913.846924,3792.667236,32.328304) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 3.422533 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 10 : ActorRecordingItem 110083 ticks: 12063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1913.746582,3793.565186,32.333000) Speed 1.000000
+41341187 checking for completion of item ActorRecordingItem 566274 ticks: 9031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1911.960205,3791.346191,32.306465) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 3.772224 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 9 : ActorRecordingItem 566274 ticks: 10031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1911.332275,3792.944824,32.310738) Speed 1.000000
+41341296 checking for completion of item ActorRecordingItem 110083 ticks: 12063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1913.746582,3793.565186,32.333000) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41341515 checking for completion of item ActorRecordingItem 566274 ticks: 10031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1911.332275,3792.944824,32.310738) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41341609 checking for completion of item ActorRecordingItem 110083 ticks: 12063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1913.746582,3793.565186,32.333000) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 3.174377 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 11 : ActorRecordingItem 110083 ticks: 13063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1912.522949,3794.111572,32.326344) Speed 1.000000
+41341843 checking for completion of item ActorRecordingItem 566274 ticks: 10031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1911.332275,3792.944824,32.310738) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 4.370150 Min distance: 4.000000
+41341937 checking for completion of item ActorRecordingItem 110083 ticks: 13063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1912.522949,3794.111572,32.326344) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41342171 checking for completion of item ActorRecordingItem 566274 ticks: 10031 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1911.332275,3792.944824,32.310738) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 3.794455 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 10 : ActorRecordingItem 566274 ticks: 11046 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1910.702881,3794.547852,32.315605) Speed 1.000000
+41342250 checking for completion of item ActorRecordingItem 110083 ticks: 13063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1912.522949,3794.111572,32.326344) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 3.053818 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 12 : ActorRecordingItem 110083 ticks: 14063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1912.457275,3794.084717,32.325787) Speed 1.000000
+41342515 checking for completion of item ActorRecordingItem 566274 ticks: 11046 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1910.702881,3794.547852,32.315605) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41342609 checking for completion of item ActorRecordingItem 110083 ticks: 14063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1912.457275,3794.084717,32.325787) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41342828 checking for completion of item ActorRecordingItem 566274 ticks: 11046 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1910.702881,3794.547852,32.315605) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 4.366773 Min distance: 4.000000
+41342921 checking for completion of item ActorRecordingItem 110083 ticks: 14063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1912.457275,3794.084717,32.325787) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 1.890125 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 13 : ActorRecordingItem 110083 ticks: 15063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1912.214233,3794.499512,32.326271) Speed 1.000000
+41343140 checking for completion of item ActorRecordingItem 566274 ticks: 11046 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1910.702881,3794.547852,32.315605) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 3.846664 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+41343250 checking for completion of item ActorRecordingItem 110083 ticks: 15063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1912.214233,3794.499512,32.326271) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41343578 checking for completion of item ActorRecordingItem 110083 ticks: 15063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1912.214233,3794.499512,32.326271) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 1.249933 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 14 : ActorRecordingItem 110083 ticks: 16063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1912.209106,3795.299316,32.331459) Speed 1.000000
+41343921 checking for completion of item ActorRecordingItem 110083 ticks: 16063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1912.209106,3795.299316,32.331459) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+41344234 checking for completion of item ActorRecordingItem 110083 ticks: 16063 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1912.209106,3795.299316,32.331459) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 0.703136 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Waiting for instructional_buttons to load
+instructional_buttons have loaded
+Read keys from ini file key_hud F10
+Converted keys to dword key_possess 121
+GTA Animations initialized: 
+action_load_synchedanims
+Loaded 643 synchronized anims from SceneDirectorSynchedAnim.xml
+Copying categories to map
+Copying categories to vector
+Sorting categories
+set_relationships_between_actors
+Screen Director initialized
+Setting PLAYER::SET_EVERYONE_IGNORE_PLAYER and PLAYER::SET_POLICE_IGNORE_PLAYER to false
+action_submenu_active_selected 153
+Will remove recording for 532484
+action_submenu_active_selected 141
+action_menu_active_selected 2
+action_if_ped_execute_shortcut_key_pressed: Retrieve ped in slot 2
+action_menu_active_selected 110
+SCENE SETUP
+action_menu_active_selected 115
+action_submenu_active_selected 156
+Got keyboard value Guard
+action_submenu_active_selected 140
+ActorRecordingItem 532484 ticks: 1000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 2000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 3000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 4000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 5000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 6000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 7000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 8000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 9000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 10000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 11000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 12000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 13000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 14000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 15000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 16000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 17000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 18000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 19000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 20000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 21000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 22000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+Here are the recordings made for this actor:
+ActorRecordingItem 532484 ticks: 1000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 2000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 3000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 4000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 5000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 6000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 7000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 8000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 9000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 10000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 11000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 12000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 13000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 14000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 15000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 16000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 17000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 18000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 19000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 20000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 21000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 22000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+Recorded 22 instructions
+action_menu_active_selected 119
+action_possess_ped
+action_possess_ped: Possessing target ped 385030
+possess_ped: Ped:385030
+action_menu_active_selected 122
+action_teleport_to_start_locations
+action_teleport_to_start_locations actor:532484
+532484 has start location vehicle value 0
+Before TASK_SET_BLOCKING_OF_NON_TEMPORARY_EVENTS
+Before teleport_entity_to_location
+teleport_entity_to_location: Entity:532484
+Before wait
+Setting vehicle to undrivable
+Checking if there are other used vehicles which should be teleported
+About to do dynamic_pointer_cast
+Teleporting all vehicles used in recordings
+Setting vehicle to drivable
+possess_ped: Ped:532484
+possess_ped: Ped:385030
+action_menu_active_selected 122
+action_teleport_to_start_locations
+action_teleport_to_start_locations actor:532484
+532484 has start location vehicle value 0
+Before TASK_SET_BLOCKING_OF_NON_TEMPORARY_EVENTS
+Before teleport_entity_to_location
+teleport_entity_to_location: Entity:532484
+Before wait
+Setting vehicle to undrivable
+Checking if there are other used vehicles which should be teleported
+About to do dynamic_pointer_cast
+Teleporting all vehicles used in recordings
+Setting vehicle to drivable
+possess_ped: Ped:532484
+possess_ped: Ped:385030
+action_menu_active_selected 119
+action_possess_ped
+action_menu_active_selected 115
+action_menu_active_selected 1
+action_if_ped_execute_shortcut_key_pressed: Retrieve ped in slot 1
+action_if_ped_execute_shortcut_key_pressed: Switching to ped:  532484
+possess_ped: Ped:532484
+action_submenu_active_selected 150
+Will test recording for 532484
+update_tick_recording_replay - Initiate telport to start location for all actors
+action_teleport_to_start_locations
+action_teleport_to_start_locations actor:532484
+532484 has start location vehicle value 0
+Before TASK_SET_BLOCKING_OF_NON_TEMPORARY_EVENTS
+Before teleport_entity_to_location
+teleport_entity_to_location: Entity:532484
+Before wait
+Setting vehicle to undrivable
+Checking if there are other used vehicles which should be teleported
+About to do dynamic_pointer_cast
+Teleporting all vehicles used in recordings
+Setting vehicle to drivable
+possess_ped: Ped:532484
+Starting first recording item
+ActorRecordingItem 532484 ticks: 1000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+42384046 checking for completion of item ActorRecordingItem 532484 ticks: 1000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 0.008559 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 1 : ActorRecordingItem 532484 ticks: 2000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+42384375 checking for completion of item ActorRecordingItem 532484 ticks: 2000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+42384703 checking for completion of item ActorRecordingItem 532484 ticks: 2000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 0.008559 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 2 : ActorRecordingItem 532484 ticks: 3000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+42385031 checking for completion of item ActorRecordingItem 532484 ticks: 3000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+42385343 checking for completion of item ActorRecordingItem 532484 ticks: 3000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 0.009730 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 3 : ActorRecordingItem 532484 ticks: 4000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+42385687 checking for completion of item ActorRecordingItem 532484 ticks: 4000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+42386000 checking for completion of item ActorRecordingItem 532484 ticks: 4000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 0.009730 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 4 : ActorRecordingItem 532484 ticks: 5000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+42386343 checking for completion of item ActorRecordingItem 532484 ticks: 5000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+42386656 checking for completion of item ActorRecordingItem 532484 ticks: 5000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 0.009730 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 5 : ActorRecordingItem 532484 ticks: 6000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+42386984 checking for completion of item ActorRecordingItem 532484 ticks: 6000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+42387296 checking for completion of item ActorRecordingItem 532484 ticks: 6000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 0.438330 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 6 : ActorRecordingItem 532484 ticks: 7000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+42387625 checking for completion of item ActorRecordingItem 532484 ticks: 7000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+42387937 checking for completion of item ActorRecordingItem 532484 ticks: 7000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 0.019776 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 7 : ActorRecordingItem 532484 ticks: 8000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+42388265 checking for completion of item ActorRecordingItem 532484 ticks: 8000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+42388578 checking for completion of item ActorRecordingItem 532484 ticks: 8000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 0.009846 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 8 : ActorRecordingItem 532484 ticks: 9000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+42388906 checking for completion of item ActorRecordingItem 532484 ticks: 9000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+42389218 checking for completion of item ActorRecordingItem 532484 ticks: 9000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 0.009846 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 9 : ActorRecordingItem 532484 ticks: 10000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+42389562 checking for completion of item ActorRecordingItem 532484 ticks: 10000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+42389875 checking for completion of item ActorRecordingItem 532484 ticks: 10000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 0.009846 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 10 : ActorRecordingItem 532484 ticks: 11000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+42390218 checking for completion of item ActorRecordingItem 532484 ticks: 11000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+42390531 checking for completion of item ActorRecordingItem 532484 ticks: 11000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 0.009846 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 11 : ActorRecordingItem 532484 ticks: 12000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+42390859 checking for completion of item ActorRecordingItem 532484 ticks: 12000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+42391171 checking for completion of item ActorRecordingItem 532484 ticks: 12000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 0.009846 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 12 : ActorRecordingItem 532484 ticks: 13000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+42391500 checking for completion of item ActorRecordingItem 532484 ticks: 13000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+42391812 checking for completion of item ActorRecordingItem 532484 ticks: 13000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 0.009846 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 13 : ActorRecordingItem 532484 ticks: 14000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+42392140 checking for completion of item ActorRecordingItem 532484 ticks: 14000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+42392453 checking for completion of item ActorRecordingItem 532484 ticks: 14000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 0.009846 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 14 : ActorRecordingItem 532484 ticks: 15000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.380737,1140.276001,114.443275) Speed 1.000000
+action_submenu_active_selected 153
+Will remove recording for 532484
+action_menu_active_selected 121
+action_submenu_active_selected 173
+Got null keyboard value
+action_submenu_active_selected 152
+Actor 532484 Has relationshipgroup Group A
+Adding actor to relationship group . Existing hash is 1862763509 new has should be is 1183095076
+Relationship group after add 1183095076
+Actor 532484 Has relationshipgroup Group A
+Adding actor to relationship group . Existing hash is 1183095076 new has should be is 1183095076
+Relationship group after add 1183095076
+ActorRecordingItem 532484 ticks: 1000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.051758,1140.240967,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 2000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.012939,1140.240967,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 3000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1390.950806,1140.240723,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 4000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1390.907837,1140.240723,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 5000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1390.905518,1140.240723,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 6000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1390.905518,1140.240723,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 7000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1390.905518,1140.240723,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 8000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1390.905518,1140.240723,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 9000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1390.905518,1140.240723,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 10000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1390.905518,1140.240723,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 11000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1390.905518,1140.240723,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 12000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1390.905518,1140.240723,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 13000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1390.905518,1140.240723,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 14000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1390.905518,1140.240723,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 15000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1390.905518,1140.240723,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 16000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1390.905518,1140.240723,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 17000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1390.905518,1140.240723,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 18000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1390.905518,1140.240723,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 19000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1390.905518,1140.240723,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 20000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1390.905518,1140.240723,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 21000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1390.905518,1140.240723,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 22000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1390.905518,1140.240723,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 23000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1390.905518,1140.240723,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 24000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1390.905518,1140.240723,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 25000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1390.905518,1140.240723,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 26000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1390.905518,1140.240723,114.443275) Speed 1.000000
+Here are the recordings made for this actor:
+ActorRecordingItem 532484 ticks: 1000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.051758,1140.240967,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 2000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.012939,1140.240967,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 3000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1390.950806,1140.240723,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 4000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1390.907837,1140.240723,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 5000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1390.905518,1140.240723,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 6000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1390.905518,1140.240723,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 7000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1390.905518,1140.240723,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 8000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1390.905518,1140.240723,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 9000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1390.905518,1140.240723,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 10000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1390.905518,1140.240723,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 11000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1390.905518,1140.240723,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 12000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1390.905518,1140.240723,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 13000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1390.905518,1140.240723,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 14000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1390.905518,1140.240723,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 15000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1390.905518,1140.240723,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 16000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1390.905518,1140.240723,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 17000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1390.905518,1140.240723,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 18000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1390.905518,1140.240723,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 19000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1390.905518,1140.240723,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 20000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1390.905518,1140.240723,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 21000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1390.905518,1140.240723,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 22000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1390.905518,1140.240723,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 23000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1390.905518,1140.240723,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 24000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1390.905518,1140.240723,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 25000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1390.905518,1140.240723,114.443275) Speed 1.000000
+ActorRecordingItem 532484 ticks: 26000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1390.905518,1140.240723,114.443275) Speed 1.000000
+Recorded 26 instructions
+action_submenu_active_selected 150
+Will test recording for 532484
+update_tick_recording_replay - Initiate telport to start location for all actors
+action_teleport_to_start_locations
+action_teleport_to_start_locations actor:532484
+532484 has start location vehicle value 0
+Before TASK_SET_BLOCKING_OF_NON_TEMPORARY_EVENTS
+Before teleport_entity_to_location
+teleport_entity_to_location: Entity:532484
+Before wait
+Setting vehicle to undrivable
+Checking if there are other used vehicles which should be teleported
+About to do dynamic_pointer_cast
+Teleporting all vehicles used in recordings
+Setting vehicle to drivable
+possess_ped: Ped:532484
+Starting first recording item
+ActorRecordingItem 532484 ticks: 1000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.051758,1140.240967,114.443275) Speed 1.000000
+42493640 checking for completion of item ActorRecordingItem 532484 ticks: 1000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.051758,1140.240967,114.443275) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 0.000488 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 1 : ActorRecordingItem 532484 ticks: 2000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.012939,1140.240967,114.443275) Speed 1.000000
+42493968 checking for completion of item ActorRecordingItem 532484 ticks: 2000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.012939,1140.240967,114.443275) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+42494281 checking for completion of item ActorRecordingItem 532484 ticks: 2000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1391.012939,1140.240967,114.443275) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 0.000000 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 2 : ActorRecordingItem 532484 ticks: 3000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1390.950806,1140.240723,114.443275) Speed 1.000000
+42494640 checking for completion of item ActorRecordingItem 532484 ticks: 3000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1390.950806,1140.240723,114.443275) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+42494953 checking for completion of item ActorRecordingItem 532484 ticks: 3000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1390.950806,1140.240723,114.443275) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 0.000000 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 3 : ActorRecordingItem 532484 ticks: 4000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1390.907837,1140.240723,114.443275) Speed 1.000000
+42495281 checking for completion of item ActorRecordingItem 532484 ticks: 4000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1390.907837,1140.240723,114.443275) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+42495593 checking for completion of item ActorRecordingItem 532484 ticks: 4000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1390.907837,1140.240723,114.443275) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 0.000000 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 4 : ActorRecordingItem 532484 ticks: 5000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1390.905518,1140.240723,114.443275) Speed 1.000000
+42495921 checking for completion of item ActorRecordingItem 532484 ticks: 5000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1390.905518,1140.240723,114.443275) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+42496234 checking for completion of item ActorRecordingItem 532484 ticks: 5000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1390.905518,1140.240723,114.443275) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 0.002319 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 5 : ActorRecordingItem 532484 ticks: 6000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1390.905518,1140.240723,114.443275) Speed 1.000000
+42496578 checking for completion of item ActorRecordingItem 532484 ticks: 6000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1390.905518,1140.240723,114.443275) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+42496890 checking for completion of item ActorRecordingItem 532484 ticks: 6000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1390.905518,1140.240723,114.443275) Speed 1.000000
+ActorMovementRecordingItem: Distance to target: 0.002319 Min distance: 4.000000
+ActorMovementRecordingItem: Close enough to target for ActorRecordingItem
+Starting next recorded item 6 : ActorRecordingItem 532484 ticks: 7000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1390.905518,1140.240723,114.443275) Speed 1.000000
+42497218 checking for completion of item ActorRecordingItem 532484 ticks: 7000 delta_ticks:1000 ActorOnFootMovementRecordingItem Location (1390.905518,1140.240723,114.443275) Speed 1.000000
+Need to wait 500.000000 before checking distance to target for completion
+action_submenu_active_selected 153
+Will remove recording for 532484
+action_menu_active_selected 2
+action_if_ped_execute_shortcut_key_pressed: Retrieve ped in slot 2
+action_if_ped_execute_shortcut_key_pressed: Switching to ped:  385030
+possess_ped: Ped:385030
+action_submenu_active_selected 141
+action_menu_active_selected 1
+action_if_ped_execute_shortcut_key_pressed: Retrieve ped in slot 1
+action_if_ped_execute_shortcut_key_pressed: Switching to ped:  532484
+possess_ped: Ped:532484
+action_menu_active_selected 121
+action_submenu_active_selected 175
+action_animation_sync_execute
+Start heading is 91.637245
+Camera offset (5.997550, -0.171429, 0.400000)
+Have 1286 synchronized animations
+menu_active_index < 0. Setting menu_active_index = menu_max_index
+Vehicle
+menu_active_index > menu_max_index. Setting menu_active_index = 0
+Got keyboard value guard
+ActorPed:532484
+ActorPed*:532484
+SyncedAnimation->executeSyncedAnimation Stab guard Anims:10563 10562 Z-adjustment:0.0
+m_objectAnimation 
+Loading animation 010563 missheistdocks2a stabbing_guard_michael 4133
+Loading animation 010562 missheistdocks2a stabbing_guard_guard 4133
+About to create scene startHeading=91.637245
+About to add animations for actors
+Adding animation to 532484 actor index:0
+Too few actors, so skipping animation 010562
+About to add animations for objects
+About to execute the synchronized scene
+Selected synced animation Stab guard
+SyncedAnimation cleanupAfterExecution 
+SyncedAnimation trying to dispose scene 
+ActorPed:532484
+ActorPed*:532484
+SyncedAnimation->executeSyncedAnimation Stab guard Anims:10563 10562 Z-adjustment:0.0
+m_objectAnimation 
+Loading animation 010563 missheistdocks2a stabbing_guard_michael 4133
+Loading animation 010562 missheistdocks2a stabbing_guard_guard 4133
+About to create scene startHeading=91.637245
+About to add animations for actors
+Adding animation to 532484 actor index:0
+Too few actors, so skipping animation 010562
+About to add animations for objects
+About to execute the synchronized scene
+Selected synced animation Stab guard
+menu_active_index > menu_max_index. Setting menu_active_index = 0
+menu_active_index < 0. Setting menu_active_index = menu_max_index
+menu_active_index > menu_max_index. Setting menu_active_index = 0
+SyncedAnimation cleanupAfterExecution 
+SyncedAnimation trying to dispose scene 
+action_menu_active_selected 117
+action_clone_player
+teleport_entity_to_location: Entity:181001
+action_submenu_active_selected 171
+Start heading is 86.558067
+Camera offset (2.994589, 0.180111, 0.400000)
+Have 336323 animations
+000001 amb@bagels@male@walking@ static
+000002 amb@code_human_cower@female@base base
+000003 amb@code_human_cower@female@enter enter
+action_submenu_active_selected 173
+Got null keyboard value
+action_menu_active_selected 116
+action_if_ped_execute_shortcut_key_pressed: Retrieve ped in slot 2
+action_if_ped_execute_shortcut_key_pressed: Switching to ped:  181001
+possess_ped: Ped:181001
+action_submenu_active_selected 141
+action_menu_active_selected 1
+action_if_ped_execute_shortcut_key_pressed: Retrieve ped in slot 1
+action_if_ped_execute_shortcut_key_pressed: Switching to ped:  532484
+possess_ped: Ped:532484
+action_menu_active_selected 120
+action_submenu_active_selected 162
+action_submenu_active_selected 161
+action_submenu_active_selected 161
+action_menu_active_selected 124
+Switching to Birds eye mode
+actor location (1391.206909, 1140.216309, 114.443275)
+Camera offset (9.981961, 0.600371, 6.400000)
+Camera location (1391.206909, 1150.216309, 120.843277)
+initializeStageLights
+FlickerType Blinking
+FlickerType OnOff
+FlickerType Strobe
+Adding light
+Failed to load GTAObject name:prop_sd_spot_01 Hash:1509971249
+Cancel add light
+Exiting birds eye mode
+action_menu_active_selected 121
+action_submenu_active_selected 173
+Got null keyboard value
+action_submenu_active_selected 173
+Got keyboard value amb@world_human_stand_guard@male@idle_a
+Finding animation for token amb@world_human_stand_guard@male@idle_a
+action_menu_active_selected 122
+action_teleport_to_start_locations
+Waiting for instructional_buttons to load
+instructional_buttons have loaded
+Read keys from ini file key_hud F10
+Converted keys to dword key_possess 121
+GTA Animations initialized: 
+action_load_synchedanims
+Loaded 643 synchronized anims from SceneDirectorSynchedAnim.xml
+Copying categories to map
+Copying categories to vector
+Sorting categories
+set_relationships_between_actors
+Screen Director initialized
+Setting PLAYER::SET_EVERYONE_IGNORE_PLAYER and PLAYER::SET_POLICE_IGNORE_PLAYER to false
+Waiting for instructional_buttons to load
+instructional_buttons have loaded
+Read keys from ini file key_hud F10
+Converted keys to dword key_possess 121
+GTA Animations initialized: 
+action_load_synchedanims
+Loaded 643 synchronized anims from SceneDirectorSynchedAnim.xml
+Copying categories to map
+Copying categories to vector
+Sorting categories
+set_relationships_between_actors
+Screen Director initialized
+Setting PLAYER::SET_EVERYONE_IGNORE_PLAYER and PLAYER::SET_POLICE_IGNORE_PLAYER to false
+Waiting for instructional_buttons to load
+instructional_buttons have loaded
+Read keys from ini file key_hud F10
+Converted keys to dword key_possess 121
+GTA Animations initialized: 
+action_load_synchedanims
+Loaded 643 synchronized anims from SceneDirectorSynchedAnim.xml
+Copying categories to map
+Copying categories to vector
+Sorting categories
+set_relationships_between_actors
+Screen Director initialized
+Setting PLAYER::SET_EVERYONE_IGNORE_PLAYER and PLAYER::SET_POLICE_IGNORE_PLAYER to false

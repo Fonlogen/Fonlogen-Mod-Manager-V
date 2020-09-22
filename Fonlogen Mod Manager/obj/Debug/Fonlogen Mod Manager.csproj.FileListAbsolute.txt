@@ -1,0 +1,15 @@
+C:\Users\Fonlogen\source\repos\Fonlogen Mod Manager\Fonlogen Mod Manager\obj\Debug\Fonlogen Mod Manager.csprojAssemblyReference.cache
+C:\Users\Fonlogen\source\repos\Fonlogen Mod Manager\Fonlogen Mod Manager\obj\Debug\Fonlogen_Mod_Manager.Properties.Resources.resources
+C:\Users\Fonlogen\source\repos\Fonlogen Mod Manager\Fonlogen Mod Manager\obj\Debug\Fonlogen Mod Manager.csproj.GenerateResource.cache
+C:\Users\Fonlogen\source\repos\Fonlogen Mod Manager\Fonlogen Mod Manager\obj\Debug\Fonlogen Mod Manager.csproj.CoreCompileInputs.cache
+C:\Users\Fonlogen\source\repos\Fonlogen Mod Manager\Fonlogen Mod Manager\bin\Debug\Fonlogen Mod Manager.exe.config
+C:\Users\Fonlogen\source\repos\Fonlogen Mod Manager\Fonlogen Mod Manager\bin\Debug\Fonlogen Mod Manager.exe
+C:\Users\Fonlogen\source\repos\Fonlogen Mod Manager\Fonlogen Mod Manager\bin\Debug\Fonlogen Mod Manager.pdb
+C:\Users\Fonlogen\source\repos\Fonlogen Mod Manager\Fonlogen Mod Manager\obj\Debug\Fonlogen Mod Manager.exe
+C:\Users\Fonlogen\source\repos\Fonlogen Mod Manager\Fonlogen Mod Manager\obj\Debug\Fonlogen Mod Manager.pdb
+C:\Users\Fonlogen\source\repos\Fonlogen Mod Manager\Fonlogen Mod Manager\obj\Debug\Fonlogen_Mod_Manager.FileButton.resources
+C:\Users\Fonlogen\source\repos\Fonlogen Mod Manager\Fonlogen Mod Manager\obj\Debug\Fonlogen_Mod_Manager.Main.resources
+C:\Users\Fonlogen\source\repos\Fonlogen Mod Manager\Fonlogen Mod Manager\obj\Debug\Fonlogen_Mod_Manager.Settings.resources
+C:\Users\Fonlogen\source\repos\Fonlogen Mod Manager\Fonlogen Mod Manager\obj\Debug\Fonlogen_Mod_Manager.ProfileRename.resources
+C:\Users\Fonlogen\source\repos\Fonlogen Mod Manager\Fonlogen Mod Manager\obj\Debug\Fonlogen_Mod_Manager.CreateProfile.resources
+C:\Users\Fonlogen\source\repos\Fonlogen Mod Manager\Fonlogen Mod Manager\obj\Debug\Fonlogen_Mod_Manager.DeleteProfile.resources

@@ -1,0 +1,54 @@
+Menyoo 1.4.0
+Log file created 14/9/2020
+
+
+
+INFO: [14:45:19] [DX-HOOK] Loading texture: C:\Games\Grand Theft Auto V\menyooStuff\Graphics\Speedo\needle_orange.png
+INFO: [14:45:19] [DX-HOOK] Loading texture: C:\Games\Grand Theft Auto V\menyooStuff\Graphics\Speedo\night_needle_orange.png
+INFO: [14:45:19] [DX-HOOK] Loading texture: C:\Games\Grand Theft Auto V\menyooStuff\Graphics\Speedo\needle_red.png
+INFO: [14:45:19] [DX-HOOK] Loading texture: C:\Games\Grand Theft Auto V\menyooStuff\Graphics\Speedo\night_needle_red.png
+INFO: [14:45:19] [DX-HOOK] Loading texture: C:\Games\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_cyan2.png
+INFO: [14:45:19] [DX-HOOK] Loading texture: C:\Games\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_green2.png
+INFO: [14:45:19] [DX-HOOK] Loading texture: C:\Games\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_yellow2.png
+INFO: [14:45:19] [DX-HOOK] Loading texture: C:\Games\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_orange2.png
+INFO: [14:45:19] [DX-HOOK] Loading texture: C:\Games\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_purple2.png
+INFO: [14:45:19] [DX-HOOK] Loading texture: C:\Games\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_pink2.png
+INFO: [14:45:19] [DX-HOOK] Loading texture: C:\Games\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_cyan.png
+INFO: [14:45:19] [DX-HOOK] Loading texture: C:\Games\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_green.png
+INFO: [14:45:19] [DX-HOOK] Loading texture: C:\Games\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_yellow.png
+INFO: [14:45:19] [DX-HOOK] Loading texture: C:\Games\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_orange.png
+INFO: [14:45:19] [DX-HOOK] Loading texture: C:\Games\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_purple.png
+INFO: [14:45:19] [DX-HOOK] Loading texture: C:\Games\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_pink.png
+INFO: [14:45:19] [DX-HOOK] Loading texture: C:\Games\Grand Theft Auto V\menyooStuff\Graphics\Clock\Default_face.png
+INFO: [14:45:19] [DX-HOOK] Loading texture: C:\Games\Grand Theft Auto V\menyooStuff\Graphics\Clock\Default_handh.png
+INFO: [14:45:19] [DX-HOOK] Loading texture: C:\Games\Grand Theft Auto V\menyooStuff\Graphics\Clock\Default_handm.png
+INFO: [14:45:19] [DX-HOOK] Loading texture: C:\Games\Grand Theft Auto V\menyooStuff\Graphics\Clock\Frameless_face.png
+INFO: [14:45:19] [DX-HOOK] Loading texture: C:\Games\Grand Theft Auto V\menyooStuff\Graphics\Clock\Frameless_handh.png
+INFO: [14:45:19] [DX-HOOK] Loading texture: C:\Games\Grand Theft Auto V\menyooStuff\Graphics\Clock\Frameless_handm.png
+INFO: [14:45:19] [DX-HOOK] Loading texture: C:\Games\Grand Theft Auto V\menyooStuff\Graphics\teleportToWaypointBoxKeyboard.png
+INFO: [14:45:19] [DX-HOOK] Loading texture: C:\Games\Grand Theft Auto V\menyooStuff\Graphics\teleportToWaypointBoxGamepad.png
+INFO: [15:0:45] [DX-HOOK] Loading texture: C:\Games\Grand Theft Auto V\menyooStuff\Graphics\Speedo\needle_orange.png
+INFO: [15:0:45] [DX-HOOK] Loading texture: C:\Games\Grand Theft Auto V\menyooStuff\Graphics\Speedo\night_needle_orange.png
+INFO: [15:0:45] [DX-HOOK] Loading texture: C:\Games\Grand Theft Auto V\menyooStuff\Graphics\Speedo\needle_red.png
+INFO: [15:0:45] [DX-HOOK] Loading texture: C:\Games\Grand Theft Auto V\menyooStuff\Graphics\Speedo\night_needle_red.png
+INFO: [15:0:45] [DX-HOOK] Loading texture: C:\Games\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_cyan2.png
+INFO: [15:0:45] [DX-HOOK] Loading texture: C:\Games\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_green2.png
+INFO: [15:0:45] [DX-HOOK] Loading texture: C:\Games\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_yellow2.png
+INFO: [15:0:45] [DX-HOOK] Loading texture: C:\Games\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_orange2.png
+INFO: [15:0:45] [DX-HOOK] Loading texture: C:\Games\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_purple2.png
+INFO: [15:0:45] [DX-HOOK] Loading texture: C:\Games\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_pink2.png
+INFO: [15:0:45] [DX-HOOK] Loading texture: C:\Games\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_cyan.png
+INFO: [15:0:45] [DX-HOOK] Loading texture: C:\Games\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_green.png
+INFO: [15:0:45] [DX-HOOK] Loading texture: C:\Games\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_yellow.png
+INFO: [15:0:45] [DX-HOOK] Loading texture: C:\Games\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_orange.png
+INFO: [15:0:45] [DX-HOOK] Loading texture: C:\Games\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_purple.png
+INFO: [15:0:45] [DX-HOOK] Loading texture: C:\Games\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_pink.png
+INFO: [15:0:45] [DX-HOOK] Loading texture: C:\Games\Grand Theft Auto V\menyooStuff\Graphics\Clock\Default_face.png
+INFO: [15:0:45] [DX-HOOK] Loading texture: C:\Games\Grand Theft Auto V\menyooStuff\Graphics\Clock\Default_handh.png
+INFO: [15:0:45] [DX-HOOK] Loading texture: C:\Games\Grand Theft Auto V\menyooStuff\Graphics\Clock\Default_handm.png
+INFO: [15:0:45] [DX-HOOK] Loading texture: C:\Games\Grand Theft Auto V\menyooStuff\Graphics\Clock\Frameless_face.png
+INFO: [15:0:45] [DX-HOOK] Loading texture: C:\Games\Grand Theft Auto V\menyooStuff\Graphics\Clock\Frameless_handh.png
+INFO: [15:0:45] [DX-HOOK] Loading texture: C:\Games\Grand Theft Auto V\menyooStuff\Graphics\Clock\Frameless_handm.png
+INFO: [15:0:45] [DX-HOOK] Loading texture: C:\Games\Grand Theft Auto V\menyooStuff\Graphics\teleportToWaypointBoxKeyboard.png
+INFO: [15:0:45] [DX-HOOK] Loading texture: C:\Games\Grand Theft Auto V\menyooStuff\Graphics\teleportToWaypointBoxGamepad.png
+

@@ -1,0 +1,8 @@
+[2020-09-14 14:44:17] Log file created (NoEditorRestrictions.asi, build Jun 23 2019 19:55:45) // (C) Unknown Modder (twitter.com/unknownmodder)
+===============================================================================================================================================
+[2020-09-14 14:44:17] Detected Windows 10 Home (10.0.18362.1049)
+[2020-09-14 14:44:17] Using game version 1.0.2060.1
+[2020-09-14 14:44:17] Input hook attached: WndProc 0x00000000FFFF0487
+[2020-09-14 14:44:17] Reading settings...
+[2020-09-14 14:44:17] Patching restrictions...
+[2020-09-14 14:44:18] Success!

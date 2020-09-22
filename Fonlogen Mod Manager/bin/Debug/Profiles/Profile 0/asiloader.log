@@ -1,0 +1,24 @@
+// GTA V ASI LOADER (build May  2 2015)
+//     (C) Alexander Blade 2015
+LIB: "C:\WINDOWS\system32\dinput8.dll" => 00007FF84F300000
+API: "DirectInput8Create" => 00007FF84F308F80
+API: "DllCanUnloadNow" => 00007FF84F319EB0
+API: "DllGetClassObject" => 00007FF84F319F80
+API: "DllRegisterServer" => 00007FF84F323CB0
+API: "DllUnregisterServer" => 00007FF84F323F30
+LOADER: Loading *.asi plugins
+ASI: Loading "C:\Games\Grand Theft Auto V\ExtendedVideoExport.asi"
+     "ExtendedVideoExport.asi" => 00007FF802350000
+ASI: Loading "C:\Games\Grand Theft Auto V\Menyoo.asi"
+     "Menyoo.asi" => 00007FF801A70000
+ASI: Loading "C:\Games\Grand Theft Auto V\NoEditorRestrictions.asi"
+     "NoEditorRestrictions.asi" => 00007FF84E440000
+ASI: Loading "C:\Games\Grand Theft Auto V\openCameraV.asi"
+     "openCameraV.asi" => 00007FF83A3B0000
+ASI: Loading "C:\Games\Grand Theft Auto V\OpenIV.asi"
+     "OpenIV.asi" => 00007FF8348E0000
+ASI: Loading "C:\Games\Grand Theft Auto V\SceneDirector.asi"
+     "SceneDirector.asi" => 00007FF827020000
+ASI: Loading "C:\Games\Grand Theft Auto V\ScriptHookVDotNet.asi"
+     "ScriptHookVDotNet.asi" => 00007FF84E050000
+LOADER: Finished loading *.asi plugins
