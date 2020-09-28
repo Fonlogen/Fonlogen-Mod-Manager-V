@@ -1,3 +1,5 @@
+// GTA V Mod Manager by Fonlogen - Please give credits if you compile and distribute!
+
 ﻿using Microsoft.VisualBasic.FileIO;
 using System;
 using System.Collections.Generic;
